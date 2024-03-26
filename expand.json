@@ -1,0 +1,13 @@
+{
+    "expand":[{
+        "name":"卡片配色-星空(全局)",
+        "publisher":"王大哥",
+        "version":"1.0.0",
+        "file":"wdg01.py",
+        "id":"wdg01",
+        "describe":"改变卡片配色",
+        "priority":1,
+        "del":false,
+        "type":0
+    }]
+}
